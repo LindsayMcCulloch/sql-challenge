@@ -2,10 +2,13 @@
 This is the repository for Monash University Data Analytics Bootcamp Module 9 Challenge
 
 # How to use
-Entity Relationship Diagram is included in file Data_Modelling.png
-Table schema for each CSV file can be found in file Data_Engineering.sql
-Data analysis for the table data can be foun in file Data_Analysis.sql
-CSV files used are located in "Resources" folder 
+- Entity Relationship Diagram is included in file Data_Modelling.png
+- 
+- Table schema for each CSV file can be found in file Data_Engineering.sql
+- 
+- Data analysis for the table data can be foun in file Data_Analysis.sql
+- 
+- CSV files used are located in "Resources" folder 
 
 Background:
 --------------------------------------------------------------------------------------------------------------------------------
@@ -58,12 +61,21 @@ List the frequency counts, in descending order, of all the employee last names (
 Resources used:
 --------------------------------------------------------------------------------------------------------------------------------
 BCS Xpert Learning assistant 
+
 Office Hours
+
 https://stackoverflow.com/questions/3474389/how-to-visualize-the-relationships-between-tables-of-a-database-schema
+
 https://www.pgadmin.org/docs/pgadmin4/latest/erd_tool.html
+
 https://medium.com/geekculture/creating-a-sql-entity-relationship-diagram-erd-ced5ad1239d0
+
 https://www.postgresql.org/message-id/23d251df0906252312i33fe2cb8ue74ee0a19a64518a@mail.gmail.com
+
 https://dba.stackexchange.com/questions/169202/failed-import-of-date-using-copy
+
 https://stackoverflow.com/questions/68337925/i-am-unable-to-upload-a-csv-file-in-postgresql-database-because-i-dont-know-ho
+
 https://stackoverflow.com/questions/13244460/how-to-change-datestyle-in-postgresql
+
 https://stackoverflow.com/questions/48722878/date-in-table-is-dd-mm-yyyy-cant-import-to-postgres-via-csv
