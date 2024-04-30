@@ -3,11 +3,11 @@ This is the repository for Monash University Data Analytics Bootcamp Module 9 Ch
 
 # How to use
 - Entity Relationship Diagram is included in file Data_Modelling.png
-- 
+  
 - Table schema for each CSV file can be found in file Data_Engineering.sql
-- 
+  
 - Data analysis for the table data can be foun in file Data_Analysis.sql
-- 
+  
 - CSV files used are located in "Resources" folder 
 
 Background:
